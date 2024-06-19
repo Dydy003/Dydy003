@@ -1,14 +1,13 @@
 # Hi i am Dylan  :
 Hello, world ! I am Developer iOS 
 
-📱 SwiftUI
-📲 UIKit
-💽 Core Data
-💿 SwiftData
-⌚️Apple Watch
-🗺️ MapKit
-❇️ WidgetKit
-👨🏻‍🎨 Design
+• 📱 SwiftUI
+• 📲 UIKit
+• 💽 Core Data
+• 💿 SwiftData
+• 🗺️ MapKit
+• ❇️ WidgetKit
+• 👨🏻‍🎨 Design
 
 
 ## 🌐 Socials:
