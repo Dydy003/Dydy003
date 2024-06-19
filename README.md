@@ -1,5 +1,5 @@
-# Hi i am Dylan 👋🏼 :
- Hello, world ! I am Developer iOS 
+# Hi i am Dylan  :
+Hello, world ! I am Developer iOS 
 
 📱 SwiftUI
 📲 UIKit
