@@ -1,4 +1,4 @@
-<img width="1379" alt="Capture d’écran 2025-03-14 à 17 05 27" src="https://github.com/user-attachments/assets/cfdf1bb0-3f4b-404a-a93e-1711b65e1f35" />
+<img width="5120" height="2560" alt="GitHub" src="https://github.com/user-attachments/assets/ae963217-c3cd-4e9c-94f0-9075eb998ff0" />
 # Hi i am Dylan  :
 Hello, world ! I am Developer iOS 
 
